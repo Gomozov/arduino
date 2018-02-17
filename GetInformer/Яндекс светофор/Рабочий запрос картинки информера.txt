@@ -1,0 +1,16 @@
+GET http://info.maps.yandex.net/traffic/moscow/current_traffic_88.gif HTTP/1.1
+Accept: */*
+Accept-Charset: windows-1251,utf-8;q=0.7,*;q=0.3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cache-Control: max-age=0
+Connection: keep-alive
+Host: info.maps.yandex.net
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.151 Safari/534.16
+
+
+
+
+
+
+213.180.204.137:80
